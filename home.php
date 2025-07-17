@@ -149,7 +149,7 @@ if($usermail == true){
                 </div>
             </div>
             <div class="footer">
-                <button class="btn btn-success" name="guestdetailsubmit">Submit</button>
+                <button class="btn btn-success" name="guestdetailsubmit">Pay Now</button>
             </div>
         </form>
 
