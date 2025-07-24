@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lipa na mpesa</title>
+    <title>Checkout</title>
     <link
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
       rel="stylesheet"
@@ -95,11 +95,11 @@
                 </div>
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Phone Number</label>
-                  <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
+                  <input type="text" class="form-control" name="phone"  placeholder="254712345678">
                 </div>
              
                 <div class="col-12">
-                  <button type="submit" class="btn btn-success" name="submit" value="submit">Donate</button>
+                  <button type="submit" class="btn btn-success" name="submit">Pay Now</button>
                 </div>
               </form>
               <!--bs5 input-->

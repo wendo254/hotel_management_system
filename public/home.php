@@ -51,7 +51,6 @@ if($usermail == true){
       <li><a href="#firstsection">Home</a></li>
       <li><a href="#secondsection">Rooms</a></li>
       <li><a href="#thirdsection">Facilites</a></li>
-      <li><a href="#contactus">contact us</a></li>
       <a href="./logout.php"><button class="btn btn-danger">Logout</button></a>
     </ul>
   </nav>
@@ -149,7 +148,7 @@ if($usermail == true){
                 </div>
             </div>
             <div class="footer">
-                <button class="btn btn-success" name="guestdetailsubmit">Pay Now</button>
+                <button type="submit" class="btn btn-success" name="guestdetailsubmit" value="Pay Now">Pay Now</button>
             </div>
         </form>
 
@@ -288,7 +287,7 @@ if($usermail == true){
       <i class="fa-solid fa-envelope"></i>
     </div>
     <div class="createdby">
-      <h5>Created by @tushar</h5>
+      <h5>Created by @</h5>
     </div>
   </section>
 </body>
